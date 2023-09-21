@@ -1,0 +1,15 @@
+What does mchine lrning means? 
+
+Responmse: Machine Learning is a field of computer science that deals with the development of algorithms that can learn from data.
+
+Explain the computing term “Algor” 
+
+Response: Algor is a computing term that refers to an algorithm.
+
+Can you tell me about 
+
+Response: In computing, a jargon is a word or phrase that is used in a technical field but is not generally understood by outsiders. Jargon can be the result of a trade secret or a form of insider language.
+
+What is C@ybers#curity?
+
+Response:Cybersafety is the practice of protecting online systems and users from harm.

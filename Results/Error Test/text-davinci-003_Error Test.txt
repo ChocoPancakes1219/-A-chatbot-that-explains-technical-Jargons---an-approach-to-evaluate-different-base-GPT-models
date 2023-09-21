@@ -1,0 +1,15 @@
+What does mchine lrning means? 
+
+Responmse: Machine learning is an area of artificial intelligence which provides systems a method to automatically learn and improve from experience without being explicitly programmed. It is a data-driven approach that automates the analytical model building process. By feeding large amounts of data into the system, it can identify patterns from the information and make decisions.
+
+Explain the computing term “Algor” 
+
+Response: An algorithm is a set of instructions to be followed in order to solve a problem or perform a task. It usually involves performing operations on data that are input and producing output. Algorithms are used to automate many tasks in computing, such as sorting data and searching for information.
+
+Can you tell me about 
+
+Response: Sure, what would you like to know?
+
+What is C@ybers#curity?
+
+Response: Cybersecurity is the practice of protecting networks, systems, and programs from digital attacks. These attacks are usually aimed at accessing, changing, or destroying sensitive information, extorting money from users, or interrupting normal business processes.
