@@ -23,7 +23,7 @@ class Timer:
 def index():
     return render_template('index.html')
 
-openai.api_key = "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"
+openai.api_key = "YOUR API KEY"
 def Complete_text(input_text):
     response = openai.Completion.create(
 
